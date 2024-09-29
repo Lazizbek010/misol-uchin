@@ -1,0 +1,24 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+.container {
+        max-width: 1200px;
+        margin: 0 auto;
+}
+
+.parent {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+}
+
+.parent p {
+        border: 5px solid red;
+        padding: 15px;
+}
+
+
+
+

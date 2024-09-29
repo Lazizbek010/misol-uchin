@@ -1,0 +1,14 @@
+@media (max-width: 950px) {
+        .parent {
+                flex-wrap: wrap;
+        }
+        .parent p{
+                width: 45%;
+        }
+}
+
+@media (max-width: 650px){
+        .parent p{
+                width: 95%;
+        }
+}
